@@ -47,8 +47,8 @@ Hey there! I'm Bianca, a passionate developer who loves turning ideas into reali
 
 📫 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bianca-soares-a18302216/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=Google%20chrome&logoColor=white)](https://seuportfolio.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/seu-perfil)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/freitas.bibs)
 
 Thanks for stopping by, and happy coding! 😊✨
