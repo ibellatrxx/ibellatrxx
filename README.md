@@ -32,8 +32,8 @@ Hey there! I'm Bianca, a passionate developer who loves turning ideas into reali
 
 📈 **My GitHub Stats**
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuNomeDeUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact&theme=radical)
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibellatrxx&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibellatrxx&layout=compact&theme=radical)
 
 ---
 
