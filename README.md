@@ -42,8 +42,9 @@ Quality is not a phase. It’s a **product strategy**.
 
 ## 📊 GitHub Analytics
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibellatrxx&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibellatrxx&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibellatrxx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibellatrxx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
