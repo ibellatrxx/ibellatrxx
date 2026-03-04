@@ -40,12 +40,6 @@ Quality is not a phase. It’s a **product strategy**.
 
 ---
 
-## 📊 GitHub Analytics
-
-![Metrics](https://metrics.lecoq.io/Ibellatrxx?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America%2FSao_Paulo)
-
----
-
 ## 🎯 What I'm Building Now
 
 - 📈 Improving QA metrics for team reviews  
