@@ -1,60 +1,66 @@
-# 🌟 Hello, World! I'm Bianca Soares! 🌟
+# 👩🏻‍💻 Bianca Soares  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+Aspiring+Full+Stack;UI%2FUX+Designer+%7C+Tech+Enthusiast;Code+with+Creativity+%7C+Passion+for+Innovation)](https://git.io/typing-svg)
-
----
-
-🎨 **About Me**
-
-Hey there! I'm Bianca, a passionate developer who loves turning ideas into reality through clean code and vibrant designs. I'm currently exploring the world of **Full Stack Development** while specializing in front-end magic with **React** and **UI/UX design**. I'm always up for a tech challenge, so let's connect and create something amazing! 😄💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=26&duration=3000&pause=800&color=7F3FBF&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Front-End+Developer;UX-Focused+%7C+Product+Driven;Building+Quality+Through+Strategy+and+Code)](https://git.io/typing-svg)
 
 ---
 
-💡 **Technologies & Tools**
+## 🚀 About Me
 
-✨ **Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+I’m a QA Engineer and Developer focused on building **high-quality digital products** with strong attention to user experience and performance.
 
+Currently working with:
+- 🔎 Manual testing strategies  
+- 🧪 Automated tests (Maestro)  
+- 📊 Quality metrics and defect analysis  
+- 💻 Front-end development with React  
 
-🎨 **Design Tools:**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
-
-🚀 **Dev Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+My mindset?  
+Quality is not a phase. It’s a **product strategy**.
 
 ---
 
-📈 **My GitHub Stats**
+## 🧠 Core Skills
 
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibellatrxx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibellatrxx&layout=compact&theme=radical)
+### 💻 Development
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
+### 🧪 Quality Engineering
+![Testing](https://img.shields.io/badge/Manual%20Testing-7F3FBF?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Test%20Automation-7F3FBF?style=for-the-badge)
+![Maestro](https://img.shields.io/badge/Maestro-7F3FBF?style=for-the-badge)
+![QA Metrics](https://img.shields.io/badge/QA%20Metrics-7F3FBF?style=for-the-badge)
+
+### 🎨 UX & Design
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![UX Thinking](https://img.shields.io/badge/User%20Experience-0D1117?style=for-the-badge)
 
 ---
 
-✨ **Fun Facts**
+## 📊 GitHub Analytics
 
-- 🎨 I love creating visually pleasing designs that elevate user experience!
-- 🚀 Currently diving deeper into **Full Stack Development**!
-- 🌎 I'm all about connecting with fellow developers, so feel free to reach out!
+![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibellatrxx&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibellatrxx&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-📫 **Let's Connect!**
+## 🎯 What I'm Building Now
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bianca-soares-a18302216/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/freitas.bibs)
+- 📈 Improving QA metrics for team reviews  
+- 🧩 Strengthening automation coverage  
+- 🎨 Expanding UX-driven testing mindset  
+- 🌍 Improving English for global opportunities  
 
-Thanks for stopping by, and happy coding! 😊✨
+---
+
+## 🤝 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-soares-a18302216/)
+[![Instagram](https://img.shields.io/badge/Instagram-7F3FBF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/freitas.bibs)
+
+---
+
+⭐ “Quality is everyone’s responsibility — but I make sure it actually happens.”
